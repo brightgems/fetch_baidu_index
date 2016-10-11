@@ -5,9 +5,9 @@
 # 具体参考selenium的浏览器环境配置
 browser_driver = 'Chrome'  # 可以替换为PhantomJS
 # 百度用户名
-user_name = 'brightgems'
+user_name = ''
 # 百度密码
-password = '1234qwer'
+password = ''
 # 百度登陆链接
 login_url = ('https://passport.baidu.com/v2/?login&tpl=mn&u='
              'http%3A%2F%2Fwww.baidu.com%2F')
